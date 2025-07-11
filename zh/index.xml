@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>菠萝油与天光墟</title>
+    <link>https://zhaozhouyang.github.io/zh/</link>
+    <description>Recent content on 菠萝油与天光墟</description>
+    <image>
+      <title>菠萝油与天光墟</title>
+      <url>https://zhaozhouyang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zhaozhouyang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh</language>
+    <copyright>See this site&amp;rsquo;s source code here, licensed under GPLv3 ·</copyright>
+    <lastBuildDate>Sun, 15 Jun 2025 17:54:34 -0700</lastBuildDate>
+    <atom:link href="https://zhaozhouyang.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>软件版本命名新趋势：“自豪”与“羞愧”版本</title>
+      <link>https://zhaozhouyang.github.io/zh/post/2025/pride-and-shame-versioning/</link>
+      <pubDate>Fri, 30 May 2025 00:39:00 -0700</pubDate>
+      <guid>https://zhaozhouyang.github.io/zh/post/2025/pride-and-shame-versioning/</guid>
+      <description>&lt;h1 id=&#34;软件版本命名新趋势自豪与羞愧版本&#34;&gt;软件版本命名新趋势：“自豪”与“羞愧”版本&lt;/h1&gt;
+&lt;p&gt;在软件开发中，版本命名至关重要，它帮助开发者和用户了解软件的更新历史和功能变化。传统的版本号命名方式通常包括主版本号、次版本号和修订号，分别对应不同级别的更新。然而，这种方法有时并不能清晰地表达版本更新的实际意义，尤其是在边界定义上。为此，Nikitonsky 提出了一种新的版本命名模式：“自豪”与“羞愧”版本控制，这种方法试图通过情感的维度来更直观地反映软件版本的变化。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="软件版本命名新趋势自豪与羞愧版本">软件版本命名新趋势：“自豪”与“羞愧”版本</h1>
+<p>在软件开发中，版本命名至关重要，它帮助开发者和用户了解软件的更新历史和功能变化。传统的版本号命名方式通常包括主版本号、次版本号和修订号，分别对应不同级别的更新。然而，这种方法有时并不能清晰地表达版本更新的实际意义，尤其是在边界定义上。为此，Nikitonsky 提出了一种新的版本命名模式：“自豪”与“羞愧”版本控制，这种方法试图通过情感的维度来更直观地反映软件版本的变化。</p>
+<h2 id="1-传统版本命名的局限性">1. 传统版本命名的局限性</h2>
+<p>在传统版本控制系统中，虽然结构清晰，但很多时候开发团队面临如何恰当地升级版本号的困境。例如，一个小修复是否足以触发次版本号的升级？或者一个新增功能是否重要到必须提升主版本号？这些问题往往难以有一个统一的标准，导致版本号的更新有时显得随意或不够透明。</p>
+<h2 id="2-自豪与羞愧版本控制模式的详解">2. “自豪”与“羞愧”版本控制模式的详解</h2>
+<p><img loading="lazy" src="https://zhaozhouyang.oss-cn-beijing.aliyuncs.com/blog/202501/114b3a2d6f81dfd6.png">
+根据Nikitonsky的提议，引入“自豪”与“羞愧”的概念，为版本控制增加了情感层面的判断：</p>
+<ul>
+<li><strong>自豪版本</strong>（Proud version）：当开发团队对某个版本特别满意，认为它在功能或性能上有显著提升时，会提升主版本号。</li>
+<li><strong>默认版本</strong>（Default version）：对于常规的更新，不涉及重大变革或显著功能提升的，维持次版本号的更新。</li>
+<li><strong>羞愧版本</strong>（Shame version）：当需要修复一些关键错误或问题，尤其是那些开发团队觉得有些尴尬的错误时，修订号会被提升。</li>
+</ul>
+<h2 id="3-对开发文化的潜在影响">3. 对开发文化的潜在影响</h2>
+<p>这种命名方式可能会对开发文化产生深远的影响。从正面看，它鼓励团队推出高质量的更新，因为每个“自豪版本”的发布都是团队成就的标志。然而，这种方法也可能带来压力，因为它要求团队在每次发布时都必须达到一定的自豪标准，这可能会导致过度的完美主义或不必要的延迟。</p>
+<h2 id="4-结论">4. 结论</h2>
+<p>“自豪”与“羞愧”版本控制模式为软件开发中的版本命名带来了新的视角，使版本的命名不仅仅是数字的变更，而是包含了开发团队对软件质量的自我评估和情感表达。这种方法可能会促使更多的开发团队在发布新版本时更加注重质量与责任。但同时，它也要求开发者和管理者在实施时必须谨慎，平衡激励与压力，确保这一新模式能够健康地融入现有的开发文化中。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>关于我</title>
+      <link>https://zhaozhouyang.github.io/zh/about_me_zh/</link>
+      <pubDate>Sun, 14 May 2023 12:32:00 -0700</pubDate>
+      <guid>https://zhaozhouyang.github.io/zh/about_me_zh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
